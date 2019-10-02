@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Background
+  - Ball
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: AppScreen
+    uniqueID: 3104854999
+    locked: 0
+  - name: GameScreen
+    uniqueID: 4153884139
+    locked: 0
+  - name: DancingChara
+    uniqueID: 3545999711
+    locked: 0
+  - name: Background
+    uniqueID: 444420603
+    locked: 0
+  - name: UI
+    uniqueID: 338019227
+    locked: 0
+  - name: GameScreenIn
+    uniqueID: 1095147909
+    locked: 0
+  - name: BackBasket
+    uniqueID: 1952517187
+    locked: 0
+  - name: Aim
+    uniqueID: 4067124413
+    locked: 0
+  - name: Player
+    uniqueID: 209715953
+    locked: 0
+  - name: Ball
+    uniqueID: 2545340535
+    locked: 0
+  - name: FrontBasket
+    uniqueID: 69687077
+    locked: 0
